@@ -1,0 +1,19 @@
+<table class="lista" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	  <td class="header"><tag:site_name /> User Agreement</td>
+<table class="post" width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+	  <td style=\"text-align:left;\"><p> For controversial reasons, if you are affiliated with or conducting an investigation for any government, ANTI-Piracy group or any other related group, or were formally a worker of one you CANNOT download any of these Bit Torrent files. If you download these files but are not agreeing to these terms and you are violating code 431.322.12 of the Internet Privacy Act signed by Bill Clinton in 1995 and that means that you CANNOT threaten our ISP(s) or any person's) or company storing these files, and cannot prosecute any person(s) affiliated with this site which includes family, friends or individuals who run or enter this web site.</p>
+<p> The author reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect,will therefore be rejected. All offers are not-binding and without obligation. Parts of the pages or the complete publication including all offers and information might be extended, changed or partly or completely deleted by the author without separate announcement.
+The author is not responsible for any contents linked or referred to from his pages. If any damage occurs by the use of information presented there, only the author of the respective pages might be liable, not the one who has linked to these pages. Furthermore the author is not liable for any postings or messages published by users of the forum.</p>
+<p> You may not deal with copyrighted software and any other material, you dont own the rights to. Especially Retail games are strictly forbidden.
+<p><u><tag:site_name /></u> and the hosting service cannot be held responsible for any illegal content shared between users as none of the data will be transmitted from or to the server.</p>
+<p><u><tag:site_name /></u> only manages connections between users. Its impossible to check the content of the files being distributed. The links are provided solely by this site's users. We hold no responsibility if any of the links on this site are misused in any way.
+<p><u><tag:site_name /></u> cannot 100% guarantee the safety of this site and the torrents users may upload. Use this site on your own risk.
+This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.</p>
+<p> Disclaimer: None of the files shown here are actually hosted on this server. The links are provided solely by this site's users.
+The administrator of <u><tag:site_name /></u> cannot be held responsible for what its users post, or any other actions of its users.
+You may not use this site to distribute or download any material when you do not have the legal rights to do so. It is your own responsibility to adhere to these terms.</p>
+<p> If you dont agree with any of the terms above, you are not allowed to use this service and have to leave this site immediatly. If you do argee to these terms click the link below to create an account.</p></td></tr>
+<tr><td class="header" align="center">&bull;<a href="<tag:login.create />"><tag:language.ACCOUNT_CREATE /></a>&bull;</td></tr></table>
+</td></tr></table>
